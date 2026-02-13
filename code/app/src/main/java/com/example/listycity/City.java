@@ -4,7 +4,6 @@ import java.util.Objects;
 
 /**
  * This is a class that defines a City
- *
  */
 public class City implements Comparable<City>{
     private String city;
