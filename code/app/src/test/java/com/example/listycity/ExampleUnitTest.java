@@ -1,4 +1,4 @@
-package com.example.code;
+package com.example.listycity;
 
 import org.junit.Test;
 
